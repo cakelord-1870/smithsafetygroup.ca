@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://smithsafetygroup.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://smithsafetygroup.ca/collections/examination.atom"/>
+  <title>Smith Safety Group</title>
+  <updated>2021-08-04T11:57:39-04:00</updated>
+  <author>
+    <name>Smith Safety Group</name>
+  </author>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/6983567310998</id>
+    <published>2021-08-04T11:57:39-04:00</published>
+    <updated>2021-08-04T11:57:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/tongue-depressors-bag-of-100"/>
+    <title>Tongue Depressors - Bag of 100</title>
+    <s:type></s:type>
+    <s:vendor>Smith Safety Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/TongueDepressors-Bagof100.png?v=1628091751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smith Safety Group<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- Senior tongue depressor</p>
+<p>- 1.9 x 15.9cm</p>
+<p>- Made of wood</p>
+<p>- Free shipping over $99</p>
+<p><strong>- Contact for large quantity orders exceeding quantities in our price chart</strong></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>exam</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/6983567310998</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/6823871021206</id>
+    <published>2021-06-05T11:56:20-04:00</published>
+    <updated>2021-06-05T11:56:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/nitrile-gloves-non-medical"/>
+    <title>Nitrile Gloves Box of 100</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Smith Safety Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/NitrileGlovesForSaleCanada.png?v=1622906552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smith Safety Group<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span style="color: #2b00ff;"><strong>Mix and Match sizes to meet quantity discount</strong></span></div>
+<ul>
+<li>Disposable nitrile gloves <br>
+</li>
+<li>100 gloves per box</li>
+<li>Powder free</li>
+<li>Latex free</li>
+<li>Premium quality</li>
+<li>Non sterile</li>
+<li>Single use</li>
+<li>3-4 MIL (may vary based on availability)</li>
+<li>Blue or black colour <span data-mce-fragment="1">(may vary based on availability)</span>
+</li>
+<li><span data-mce-fragment="1">Available in S, M, L, XL</span></li>
+<li><strong>Contact for large quantity orders exceeding quantities in our price chart</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>exam</s:tag>
+    <s:tag>Gloves</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/6823871021206</id>
+      <title>S</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>DNS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/6823871021206</id>
+      <title>M</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>DNM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/6823871021206</id>
+      <title>L</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>DNL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/6823871021206</id>
+      <title>XL</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>DNXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

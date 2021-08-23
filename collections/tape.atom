@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://smithsafetygroup.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://smithsafetygroup.ca/collections/tape.atom"/>
+  <title>Smith Safety Group</title>
+  <updated>2021-08-04T11:07:09-04:00</updated>
+  <author>
+    <name>Smith Safety Group</name>
+  </author>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/6983499186326</id>
+    <published>2021-08-04T11:07:09-04:00</published>
+    <updated>2021-08-04T11:07:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/waterproof-adhesive-tape"/>
+    <title>Zinc Oxide Waterproof Adhesive Tape</title>
+    <s:type></s:type>
+    <s:vendor>Smith Safety Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/ZincOxideWaterproofAdhesiveTape.png?v=1628089604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smith Safety Group<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- Gentle adhesion secures dressings and devices on skin, even when wet</p>
+<p>- Protects wounds and dressings</p>
+<p>- Encased in convenient plastic spool</p>
+<p>- Zinc Oxide adhesive</p>
+<p>- Latex free</p>
+<p>- 1" x 5yd / 2.5cm x 4.6m</p>
+<p data-mce-fragment="1">- Free shipping over $99</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">- Contact for large quantity orders exceeding quantities in our price chart</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>First Aid</s:tag>
+    <s:tag>tape</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/6983499186326</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/6983491125398</id>
+    <published>2021-08-04T10:54:43-04:00</published>
+    <updated>2021-08-04T10:54:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/3m-mircopore-surgical-tape"/>
+    <title>3M Mircopore Surgical Tape - Box of 12</title>
+    <s:type></s:type>
+    <s:vendor>Smith Safety Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/3MMircoporeSurgicalTape.png?v=1628088840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smith Safety Group<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- Gentle adhesion secures dressings and devices on skin</p>
+<p>- Protects wounds and dressings</p>
+<p>- Conformable and highly breathable</p>
+<p>- Hypoallergenic and does not contain natural rubber latex</p>
+<p>- 1" x 10yd / 2.5cm x 9.1m</p>
+<p>- Comes in a box of 12</p>
+<p data-mce-fragment="1">- Free shipping over $99</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">- Contact for large quantity orders exceeding quantities in our price chart</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>First Aid</s:tag>
+    <s:tag>tape</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/6983491125398</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

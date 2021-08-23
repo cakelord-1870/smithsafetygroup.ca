@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://smithsafetygroup.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://smithsafetygroup.ca/collections/first-aid-supplied.atom"/>
+  <title>Smith Safety Group</title>
+  <updated>2021-08-04T12:04:00-04:00</updated>
+  <author>
+    <name>Smith Safety Group</name>
+  </author>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/6983633731734</id>
+    <published>2021-08-04T12:04:00-04:00</published>
+    <updated>2021-08-04T12:04:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/hydrogen-peroxide-500ml"/>
+    <title>Hydrogen Peroxide 500ml</title>
+    <s:type></s:type>
+    <s:vendor>Smith Safety Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/HydrogenPeroxide500ml.png?v=1628092859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smith Safety Group<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An anti-infective and a cleaning agent for wounds, cuts and abrasions.</p>
+<p>- Contains 3% w/v Hydrogen Peroxide</p>
+<p>- 500ml bottle</p>
+<p>- Free shipping over $99</p>
+<p><strong>- Contact for large quantity orders exceeding quantities in our price chart</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>First Aid</s:tag>
+    <s:tag>gauze and bandages</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/6983633731734</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/6983499186326</id>
+    <published>2021-08-04T11:07:09-04:00</published>
+    <updated>2021-08-04T11:07:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/waterproof-adhesive-tape"/>
+    <title>Zinc Oxide Waterproof Adhesive Tape</title>
+    <s:type></s:type>
+    <s:vendor>Smith Safety Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/ZincOxideWaterproofAdhesiveTape.png?v=1628089604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smith Safety Group<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- Gentle adhesion secures dressings and devices on skin, even when wet</p>
+<p>- Protects wounds and dressings</p>
+<p>- Encased in convenient plastic spool</p>
+<p>- Zinc Oxide adhesive</p>
+<p>- Latex free</p>
+<p>- 1" x 5yd / 2.5cm x 4.6m</p>
+<p data-mce-fragment="1">- Free shipping over $99</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">- Contact for large quantity orders exceeding quantities in our price chart</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>First Aid</s:tag>
+    <s:tag>tape</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/6983499186326</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/6983491125398</id>
+    <published>2021-08-04T10:54:43-04:00</published>
+    <updated>2021-08-04T10:54:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/3m-mircopore-surgical-tape"/>
+    <title>3M Mircopore Surgical Tape - Box of 12</title>
+    <s:type></s:type>
+    <s:vendor>Smith Safety Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/3MMircoporeSurgicalTape.png?v=1628088840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smith Safety Group<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- Gentle adhesion secures dressings and devices on skin</p>
+<p>- Protects wounds and dressings</p>
+<p>- Conformable and highly breathable</p>
+<p>- Hypoallergenic and does not contain natural rubber latex</p>
+<p>- 1" x 10yd / 2.5cm x 9.1m</p>
+<p>- Comes in a box of 12</p>
+<p data-mce-fragment="1">- Free shipping over $99</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">- Contact for large quantity orders exceeding quantities in our price chart</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>First Aid</s:tag>
+    <s:tag>tape</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/6983491125398</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/6983464910998</id>
+    <published>2021-08-04T10:38:36-04:00</published>
+    <updated>2021-08-04T10:38:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/absorbent-cotton-balls-bag-of-2000"/>
+    <title>Absorbent Cotton Balls - Bag of 2000</title>
+    <s:type></s:type>
+    <s:vendor>Smith Safety Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/AbsorbentCottonBalls-Bagof2000.png?v=1628087901"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smith Safety Group<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1">General purpose absorbent cotton balls for cleansing and skin prepping.</p>
+<p>- Non-Sterile</p>
+<p>- Single use</p>
+<p>- Comes in a bag of 2000</p>
+<p data-mce-fragment="1">- Free shipping over $99</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">- Contact for large quantity orders exceeding quantities in our price chart</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>First Aid</s:tag>
+    <s:tag>gauze and bandages</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/6983464910998</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/6983461470358</id>
+    <published>2021-08-04T10:35:01-04:00</published>
+    <updated>2021-08-04T10:35:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/absorbent-cotton-balls-bag-of-300"/>
+    <title>Absorbent Cotton Balls - Bag of 300</title>
+    <s:type></s:type>
+    <s:vendor>Smith Safety Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/AbsorbentCottonBalls-Bagof300.png?v=1628087692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smith Safety Group<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1">General purpose absorbent cotton balls for cleansing and skin prepping.</p>
+<p>- Non-Sterile</p>
+<p>- Single use</p>
+<p>- Comes in a bag of 300</p>
+<p data-mce-fragment="1">- Free shipping over $99</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">- Contact for large quantity orders exceeding quantities in our price chart</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>First Aid</s:tag>
+    <s:tag>gauze and bandages</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/6983461470358</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.69</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/6983437254806</id>
+    <published>2021-08-04T10:29:33-04:00</published>
+    <updated>2021-08-04T10:29:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/2-conforming-bandage-non-sterile"/>
+    <title>2&quot; Conforming Bandage Non-Sterile Pack of 20</title>
+    <s:type></s:type>
+    <s:vendor>Smith Safety Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/2_ConformingBandageNon-Sterile.png?v=1628087296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smith Safety Group<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1">- Conforms to contour the body</p>
+<p>- Helps to keep dressings in place</p>
+<p>- Non-Sterile</p>
+<p>- Single use</p>
+<p>- Comes in a pack of 20</p>
+<p data-mce-fragment="1">- Free shipping over $99</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">- Contact for large quantity orders exceeding quantities in our price chart</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>First Aid</s:tag>
+    <s:tag>gauze and bandages</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/6983437254806</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/6983432896662</id>
+    <published>2021-08-04T10:20:08-04:00</published>
+    <updated>2021-08-04T10:20:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/2x2-sterile-gauze-pad-12ply-box-of-100"/>
+    <title>2&quot;x2&quot; Sterile Gauze Pad 12Ply Box of 100</title>
+    <s:type></s:type>
+    <s:vendor>Smith Safety Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/2_x2_SterileGauzePad12Ply.png?v=1628086754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smith Safety Group<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1">- 100% 12Ply Cotton gauze</p>
+<p data-mce-fragment="1">- 2" x 2" / 5 x 5cm</p>
+<p data-mce-fragment="1">- Sterile and highly absorbent</p>
+<p data-mce-fragment="1">- Box of 100</p>
+<p data-mce-fragment="1">- Single use</p>
+<p data-mce-fragment="1">- Free shipping over $99</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">- Contact for large quantity orders exceeding quantities in our price chart</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>First Aid</s:tag>
+    <s:tag>gauze and bandages</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/6983432896662</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/6981972525206</id>
+    <published>2021-08-03T17:37:17-04:00</published>
+    <updated>2021-08-03T17:37:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/single-eyewash-station-with-1l-bottle-empty"/>
+    <title>Single Eyewash Station with 1L Bottle (Empty)</title>
+    <s:type></s:type>
+    <s:vendor>Smith Safety Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/SingleEyewashStation1LBottleEmpty.png?v=1628022765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smith Safety Group<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- Single eyewash station with one empty 1L bottle</p>
+<p>- Durable plastic construction</p>
+<p>- Wall mountable</p>
+<p>- Includes a sign board with directions</p>
+<p>- Free shipping over $99</p>
+<p><strong>- Contact for large quantity orders exceeding quantities in our price chart</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eyewash</s:tag>
+    <s:tag>First Aid</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/6981972525206</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/6982000246934</id>
+    <published>2021-08-03T17:36:28-04:00</published>
+    <updated>2021-08-03T17:36:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/8x10-sterile-abdominal-pad"/>
+    <title>8&quot;x10&quot; Sterile Abdominal Pad</title>
+    <s:type></s:type>
+    <s:vendor>Smith Safety Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/8x10SterileAbdominalPad.png?v=1628023836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smith Safety Group<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Single use sterile abdominal/combine pads for use where high absorbency is needed for heavy draining wounds.</p>
+<p>- 8" x 10" / 20.3 x 25.4cm</p>
+<p>- Sterile</p>
+<p>- Single use</p>
+<p>- Free shipping over $99</p>
+<p><strong>- Contact for large quantity orders exceeding quantities in our price chart</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>First Aid</s:tag>
+    <s:tag>gauze and bandages</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/6982000246934</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/6981998182550</id>
+    <published>2021-08-03T17:36:17-04:00</published>
+    <updated>2021-08-03T17:36:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/5x9-sterile-abdominal-pad"/>
+    <title>5&quot;x9&quot; Sterile Abdominal Pad</title>
+    <s:type></s:type>
+    <s:vendor>Smith Safety Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/5x9SterileAbdominalPad.png?v=1628023581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smith Safety Group<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Single use sterile abdominal/combine pads for use where high absorbency is needed for heavy draining wounds.</p>
+<p>- 5" x 9" / 12.7 x 22.9cm</p>
+<p>- Sterile</p>
+<p>- Single use</p>
+<p>- Free shipping over $99</p>
+<p><strong>- Contact for large quantity orders exceeding quantities in our price chart</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>First Aid</s:tag>
+    <s:tag>gauze and bandages</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/6981998182550</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.59</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/6981927239830</id>
+    <published>2021-08-03T17:36:10-04:00</published>
+    <updated>2021-08-03T17:36:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/4l-eyewash-solution"/>
+    <title>4L Eyewash Solution</title>
+    <s:type></s:type>
+    <s:vendor>Smith Safety Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/4LEyewashSolutionFront.png?v=1628021110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smith Safety Group<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This eyewash solution can be used to clean the eye to help reduce irritation, discomfort, burning, stinging, smarting or itching by removing loose foreign material, air pollutants (smog or pollen) or chlorinated water.</p>
+<p>- 4L (4000ml) of eyewash solution</p>
+<p>- Medical Ingredients: Purified Water 98.3%</p>
+<p>- Non Medical Ingredients: Boric Acid, Sodium Borate, Sodium Chloride</p>
+<p>- Free shipping over $99</p>
+<p><strong>- Contact for large quantity orders exceeding quantities in our price chart</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eyewash</s:tag>
+    <s:tag>First Aid</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/6981927239830</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/6982038782102</id>
+    <published>2021-08-03T17:36:04-04:00</published>
+    <updated>2021-08-03T17:36:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/4x4-sterile-gauze-pad-12ply"/>
+    <title>4&quot;x4&quot; Sterile Gauze Pad 12Ply Box of 100</title>
+    <s:type></s:type>
+    <s:vendor>Smith Safety Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/4_x4_SterileGauzePad12Ply.png?v=1628025638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smith Safety Group<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1">- 100% 12Ply Cotton gauze</p>
+<p data-mce-fragment="1">- 4" x 4" / 10 x 10cm</p>
+<p data-mce-fragment="1">- Sterile and highly absorbent</p>
+<p data-mce-fragment="1">- Box of 100</p>
+<p data-mce-fragment="1">- Single use</p>
+<p data-mce-fragment="1">- Free shipping over $99</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">- Contact for large quantity orders exceeding quantities in our price chart</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>First Aid</s:tag>
+    <s:tag>gauze and bandages</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/6982038782102</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/6982028984470</id>
+    <published>2021-08-03T17:35:57-04:00</published>
+    <updated>2021-08-03T17:35:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/36x36-sterile"/>
+    <title>36&quot;x36&quot; Sterile Surgical Gauze Compress</title>
+    <s:type></s:type>
+    <s:vendor>Smith Safety Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/36x36SterileGauzeCompressFront.png?v=1628025035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smith Safety Group<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1">Single use sterile surgical gauze compress for use <span data-mce-fragment="1">in controlling and stopping bleeding by applying pressure.</span></p>
+<p data-mce-fragment="1">- 36" x 36" / 91 x 91cm</p>
+<p data-mce-fragment="1">- Sterile and highly absorbent</p>
+<p data-mce-fragment="1">- Single use</p>
+<p data-mce-fragment="1">- Free shipping over $99</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">- Contact for large quantity orders exceeding quantities in our price chart</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>First Aid</s:tag>
+    <s:tag>gauze and bandages</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/6982028984470</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/6982012960918</id>
+    <published>2021-08-03T17:35:51-04:00</published>
+    <updated>2021-08-03T17:35:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/3x4-non-adherent-sterile-pad"/>
+    <title>3&quot;x4&quot; Non-Adherent Sterile Pad - 10 Pack</title>
+    <s:type></s:type>
+    <s:vendor>Smith Safety Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/3_x4_Non-AdherentSterilePad.png?v=1628024139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smith Safety Group<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1">Non-Adherent dressing for wounds. Designed not to stick to sensitive skin, wounds and burns. Comes in a pack of 10.</p>
+<p data-mce-fragment="1">- 3" x 4" / 7.5 x 10cm<br></p>
+<p data-mce-fragment="1">- Sterile</p>
+<p data-mce-fragment="1">- Single use</p>
+<p data-mce-fragment="1">- 10 pack</p>
+<p data-mce-fragment="1">- Free shipping over $99</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">- Contact for large quantity orders exceeding quantities in our price chart</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>First Aid</s:tag>
+    <s:tag>gauze and bandages</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/6982012960918</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/6982022234262</id>
+    <published>2021-08-03T17:35:45-04:00</published>
+    <updated>2021-08-03T17:35:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/2x3-non-adherent-sterile-pad-10-pack"/>
+    <title>2&quot;x3&quot; Non-Adherent Sterile Pad - 10 Pack</title>
+    <s:type></s:type>
+    <s:vendor>Smith Safety Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/2_x3_Non-AdherentSterilePad.png?v=1628024645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smith Safety Group<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p data-mce-fragment="1">Non-Adherent dressing for wounds. Designed not to stick to sensitive skin, wounds and burns. Comes in a pack of 10.</p>
+<p data-mce-fragment="1">- 2" x 3" / 7.5 x 5cm<br></p>
+<p data-mce-fragment="1">- Sterile</p>
+<p data-mce-fragment="1">- Single use</p>
+<p data-mce-fragment="1">- 10 pack</p>
+<p data-mce-fragment="1">- Free shipping over $99</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">- Contact for large quantity orders exceeding quantities in our price chart</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>First Aid</s:tag>
+    <s:tag>gauze and bandages</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/6982022234262</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/6981902205078</id>
+    <published>2021-08-03T17:35:37-04:00</published>
+    <updated>2021-08-03T17:35:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/1l-eyewash-solution"/>
+    <title>1L Eyewash Solution</title>
+    <s:type></s:type>
+    <s:vendor>Smith Safety Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/1LEyewashSolutionFront.png?v=1628019663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smith Safety Group<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This eyewash solution can be used to clean the eye to help reduce irritation, discomfort, burning, stinging, smarting or itching by removing loose foreign material, air pollutants (smog or pollen) or chlorinated water.</p>
+<p>- 1L (1000ml) of eyewash solution</p>
+<p>- Medical Ingredients: Purified Water 98.3%</p>
+<p>- Non Medical Ingredients: Boric Acid, Sodium Borate, Sodium Chloride</p>
+<p>- Free shipping over $99</p>
+<p><strong>- Contact for large quantity orders exceeding quantities in our price chart</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eyewash</s:tag>
+    <s:tag>First Aid</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/6981902205078</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://smithsafetygroup.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://smithsafetygroup.ca/collections/automatic-dispenser.atom"/>
+  <title>Smith Safety Group</title>
+  <updated>2020-12-21T16:47:09-05:00</updated>
+  <author>
+    <name>Smith Safety Group</name>
+  </author>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/6019490152598</id>
+    <published>2020-12-21T16:47:09-05:00</published>
+    <updated>2020-12-21T16:47:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/copy-of-wall-mount-automatic-hand-sanitizer-dispenser"/>
+    <title>Wall Dispenser Bundle</title>
+    <s:type>Automatic Hand Sanitizer Dispensers</s:type>
+    <s:vendor>Fusion PPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/bundle_8.jpg?v=1608578499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fusion PPE<br>
+        <strong>Type: </strong>Automatic Hand Sanitizer Dispensers<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="Heading">FEATURES AND BENEFITS</p>
+<table width="534">
+<tbody>
+<tr style="height: 19px;">
+<td style="width: 10%; height: 19px;"><span data-doc-type="writer" data-doc-id="6674303000001459002" style="font-family: Carlito, Calibri; font-size: 11pt;"><span>•</span></span></td>
+<td style="width: 86%; height: 19px;">1x Automatic Wall Dispenser</td>
+</tr>
+<tr style="height: 19px;">
+<td style="width: 10%; height: 19px;"><span data-doc-type="writer" data-doc-id="6674303000001459002" style="font-family: Carlito, Calibri; font-size: 11pt;"><span>•</span></span></td>
+<td style="width: 86%; height: 19px;">4x 1L Sanitizer Refill</td>
+</tr>
+<tr style="height: 19px;">
+<td style="width: 10%; height: 19px;"><span data-doc-type="writer" data-doc-id="6674303000001459002" style="font-family: Carlito, Calibri; font-size: 11pt;"> • </span></td>
+<td style="width: 86%; height: 19px;">Holds 850 ml of Gel or Liquid Hand Sanitizer</td>
+</tr>
+<tr style="height: 19px;">
+<td style="width: 10%; height: 19px;"><span data-doc-type="writer" data-doc-id="6674303000001459002" style="font-family: Carlito, Calibri; font-size: 11pt;"> • </span></td>
+<td style="width: 86%; height: 19px;">Automatic Dispense (drip, 3 adjustable settings)</td>
+</tr>
+<tr style="height: 19px;">
+<td style="width: 10%; height: 19px;"><span data-doc-type="writer" data-doc-id="6674303000001459002" style="font-family: Carlito, Calibri; font-size: 11pt;"> • </span></td>
+<td style="width: 86%; height: 19px;">W 3.95” x L 3.75” x H 8.47”</td>
+</tr>
+<tr style="height: 34px;">
+<td style="width: 10%; height: 34px;"><span data-doc-type="writer" data-doc-id="6674303000001459002" style="font-family: Carlito, Calibri; font-size: 11pt;"> • </span></td>
+<td style="width: 86%; height: 34px;">Operated AC or DC </td>
+</tr>
+<tr style="height: 34px;">
+<td style="width: 10%; height: 34px;">
+<p><span data-doc-type="writer" data-doc-id="6674303000001459002" style="font-family: Carlito, Calibri; font-size: 11pt;">• </span></p>
+</td>
+<td style="width: 86%; height: 34px;">
+<p>110 Volt Adaptor (Included CUL Aproved)</p>
+</td>
+</tr>
+<tr style="height: 10.55px;">
+<td style="width: 50.93px; height: 19px;"><span data-doc-type="writer" data-doc-id="6674303000001459002" style="font-family: Carlito, Calibri; font-size: 11pt;"> • </span></td>
+<td style="width: 468.4px; height: 19px;">4 AA Size Batteries (Not Included)</td>
+</tr>
+<tr style="height: 34px;">
+<td style="width: 10%; height: 34px;">
+<p><span data-doc-type="writer" data-doc-id="6674303000001459002" style="font-family: Carlito, Calibri; font-size: 11pt;">• </span></p>
+</td>
+<td style="width: 86%; height: 34px;">
+<p>Contact for large quantity volume pricing</p>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Automatic Dispensers</s:tag>
+    <s:tag>Featured Products</s:tag>
+    <s:tag>Hand Sanitizer</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/6019490152598</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku>WDB-1-AWD-4-1L</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/6019487170710</id>
+    <published>2020-12-21T16:47:09-05:00</published>
+    <updated>2020-12-21T16:47:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/floor-dispenser-bundle"/>
+    <title>Floor Dispenser Bundle</title>
+    <s:type>Automatic Hand Sanitizer Dispensers</s:type>
+    <s:vendor>Fusion PPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/bundle_7.jpg?v=1628884804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fusion PPE<br>
+        <strong>Type: </strong>Automatic Hand Sanitizer Dispensers<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="Heading">FEATURES AND BENEFITS</p>
+<table width="534">
+<tbody>
+<tr style="height: 19px;">
+<td style="width: 10%; height: 19px;"><span style="font-family: Carlito, Calibri; font-size: 11pt;" data-doc-id="6674303000001459002" data-doc-type="writer"><span>•</span></span></td>
+<td style="width: 86%; height: 19px;">1x Automatic Floor Dispenser</td>
+</tr>
+<tr style="height: 19px;">
+<td style="width: 10%; height: 19px;"><span style="font-family: Carlito, Calibri; font-size: 11pt;" data-doc-id="6674303000001459002" data-doc-type="writer"><span>•</span></span></td>
+<td style="width: 86%; height: 19px;">4x 1L Sanitizer Refill</td>
+</tr>
+<tr style="height: 19px;">
+<td style="width: 10%; height: 19px;"><span style="font-family: Carlito, Calibri; font-size: 11pt;" data-doc-id="6674303000001459002" data-doc-type="writer"> • </span></td>
+<td style="width: 86%; height: 19px;">Holds 850 ml of Gel or Liquid Hand Sanitizer</td>
+</tr>
+<tr style="height: 19px;">
+<td style="width: 10%; height: 19px;"><span style="font-family: Carlito, Calibri; font-size: 11pt;" data-doc-id="6674303000001459002" data-doc-type="writer"> • </span></td>
+<td style="width: 86%; height: 19px;"><span>Automatic Dispense (drip, 3 adjustable settings)</span></td>
+</tr>
+<tr style="height: 19px;">
+<td style="width: 10%; height: 19px;"><span style="font-family: Carlito, Calibri; font-size: 11pt;" data-doc-id="6674303000001459002" data-doc-type="writer"> • </span></td>
+<td style="width: 86%; height: 19px;">W 3.95” x L 3.75” x H 42”</td>
+</tr>
+<tr style="height: 34px;">
+<td style="width: 10%; height: 34px;"><span style="font-family: Carlito, Calibri; font-size: 11pt;" data-doc-id="6674303000001459002" data-doc-type="writer"> • </span></td>
+<td style="width: 86%; height: 34px;">Operated AC or DC </td>
+</tr>
+<tr style="height: 34px;">
+<td style="width: 10%; height: 34px;">
+<p><span style="font-family: Carlito, Calibri; font-size: 11pt;" data-doc-id="6674303000001459002" data-doc-type="writer">• </span></p>
+</td>
+<td style="width: 86%; height: 34px;">
+<p><span>110 Volt Adaptor (Included CUL Aproved)</span></p>
+</td>
+</tr>
+<tr style="height: 10.55px;">
+<td style="width: 50.93px; height: 19px;"><span style="font-family: Carlito, Calibri; font-size: 11pt;" data-doc-id="6674303000001459002" data-doc-type="writer"> • </span></td>
+<td style="width: 468.4px; height: 19px;"><span>4 AA Size Batteries (Not Included)</span></td>
+</tr>
+<tr style="height: 34px;">
+<td style="width: 10%; height: 34px;">
+<p><span style="font-family: Carlito, Calibri; font-size: 11pt;" data-doc-id="6674303000001459002" data-doc-type="writer">• </span></p>
+</td>
+<td style="width: 86%; height: 34px;">
+<p><meta charset="UTF-8"><span>Contact for large quantity volume pricing</span></p>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Automatic Dispensers</s:tag>
+    <s:tag>Featured Products</s:tag>
+    <s:tag>Hand Sanitizer</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/6019487170710</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>FDB-1AFD-4-1L</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/5632623640726</id>
+    <published>2020-08-20T19:21:35-04:00</published>
+    <updated>2020-08-20T19:21:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/wall-mount-automatic-hand-sanitizer-dispenser-does-not-ship-till-july-30th"/>
+    <title>Wall Mount Automatic Hand Sanitizer Dispenser</title>
+    <s:type>Automatic Hand Sanitizer Dispensers</s:type>
+    <s:vendor>Fusion PPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/wall-mount-automatic-hand-sanitizer.png?v=1598748055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fusion PPE<br>
+        <strong>Type: </strong>Automatic Hand Sanitizer Dispensers<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="Heading">FEATURES AND BENEFITS</p>
+<table width="534">
+<tbody>
+<tr style="height: 19px;">
+<td style="width: 10%; height: 19px;"><span style="font-family: Carlito, Calibri; font-size: 11pt;" data-doc-id="6674303000001459002" data-doc-type="writer"> • </span></td>
+<td style="width: 86%; height: 19px;">Holds 850 ml of Gel or Liquid Hand Sanitizer</td>
+</tr>
+<tr style="height: 19px;">
+<td style="width: 10%; height: 19px;"><span style="font-family: Carlito, Calibri; font-size: 11pt;" data-doc-id="6674303000001459002" data-doc-type="writer"> • </span></td>
+<td style="width: 86%; height: 19px;">Automatic Dispense (drip, 3 adjustable settings)</td>
+</tr>
+<tr style="height: 19px;">
+<td style="width: 10%; height: 19px;"><span style="font-family: Carlito, Calibri; font-size: 11pt;" data-doc-id="6674303000001459002" data-doc-type="writer"> • </span></td>
+<td style="width: 86%; height: 19px;">W 3.95” x L 3.75” x H 8.47”</td>
+</tr>
+<tr style="height: 34px;">
+<td style="width: 10%; height: 34px;"><span style="font-family: Carlito, Calibri; font-size: 11pt;" data-doc-id="6674303000001459002" data-doc-type="writer"> • </span></td>
+<td style="width: 86%; height: 34px;">Operated AC or DC </td>
+</tr>
+<tr style="height: 34px;">
+<td style="width: 10%; height: 34px;">
+<p><span style="font-family: Carlito, Calibri; font-size: 11pt;" data-doc-id="6674303000001459002" data-doc-type="writer">• </span></p>
+</td>
+<td style="width: 86%; height: 34px;">
+<p>110 Volt Adaptor (Included CUL Aproved)</p>
+</td>
+</tr>
+<tr style="height: 10.55px;">
+<td style="width: 50.93px; height: 19px;"><span style="font-family: Carlito, Calibri; font-size: 11pt;" data-doc-id="6674303000001459002" data-doc-type="writer"> • </span></td>
+<td style="width: 468.4px; height: 19px;">4 AA Size Batteries (Not Included)</td>
+</tr>
+<tr style="height: 34px;">
+<td style="width: 10%; height: 34px;">
+<p><span style="font-family: Carlito, Calibri; font-size: 11pt;" data-doc-id="6674303000001459002" data-doc-type="writer">• </span></p>
+</td>
+<td style="width: 86%; height: 34px;">
+<p>Contact for large quantity volume pricing</p>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Automatic Dispensers</s:tag>
+    <s:tag>Featured Products</s:tag>
+    <s:tag>Hand Sanitizer</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/5632623640726</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>95800</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/5632623607958</id>
+    <published>2020-08-20T19:21:30-04:00</published>
+    <updated>2020-08-20T19:21:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/floor-mount-automatic-hand-sanitizer-dispenser-does-not-ship-till-july-30th"/>
+    <title>Floor Mount Automatic Hand Sanitizer Dispenser</title>
+    <s:type>Automatic Hand Sanitizer Dispensers</s:type>
+    <s:vendor>Fusion PPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/Floor-mount-automatic-hand-sanitizer-dispenser.png?v=1598755719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fusion PPE<br>
+        <strong>Type: </strong>Automatic Hand Sanitizer Dispensers<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="Heading">FEATURES AND BENEFITS</p>
+<table width="534">
+<tbody>
+<tr style="height: 19px;">
+<td style="width: 10%; height: 19px;"><span style="font-family: Carlito, Calibri; font-size: 11pt;" data-doc-id="6674303000001459002" data-doc-type="writer"> • </span></td>
+<td style="width: 86%; height: 19px;">Holds 850 ml of Gel or Liquid Hand Sanitizer</td>
+</tr>
+<tr style="height: 19px;">
+<td style="width: 10%; height: 19px;"><span style="font-family: Carlito, Calibri; font-size: 11pt;" data-doc-id="6674303000001459002" data-doc-type="writer"> • </span></td>
+<td style="width: 86%; height: 19px;"><span>Automatic Dispense (drip, 3 adjustable settings)</span></td>
+</tr>
+<tr style="height: 19px;">
+<td style="width: 10%; height: 19px;"><span style="font-family: Carlito, Calibri; font-size: 11pt;" data-doc-id="6674303000001459002" data-doc-type="writer"> • </span></td>
+<td style="width: 86%; height: 19px;">W 3.95” x L 3.75” x H 42”</td>
+</tr>
+<tr style="height: 34px;">
+<td style="width: 10%; height: 34px;"><span style="font-family: Carlito, Calibri; font-size: 11pt;" data-doc-id="6674303000001459002" data-doc-type="writer"> • </span></td>
+<td style="width: 86%; height: 34px;">Operated AC or DC </td>
+</tr>
+<tr style="height: 34px;">
+<td style="width: 10%; height: 34px;">
+<p><span style="font-family: Carlito, Calibri; font-size: 11pt;" data-doc-id="6674303000001459002" data-doc-type="writer">• </span></p>
+</td>
+<td style="width: 86%; height: 34px;">
+<p><span>110 Volt Adaptor (Included CUL Aproved)</span></p>
+</td>
+</tr>
+<tr style="height: 10.55px;">
+<td style="width: 50.93px; height: 19px;"><span style="font-family: Carlito, Calibri; font-size: 11pt;" data-doc-id="6674303000001459002" data-doc-type="writer"> • </span></td>
+<td style="width: 468.4px; height: 19px;"><span>4 AA Size Batteries (Not Included)</span></td>
+</tr>
+<tr style="height: 34px;">
+<td style="width: 10%; height: 34px;">
+<p><span style="font-family: Carlito, Calibri; font-size: 11pt;" data-doc-id="6674303000001459002" data-doc-type="writer">• </span></p>
+</td>
+<td style="width: 86%; height: 34px;">
+<p><meta charset="UTF-8"><span>Contact for large quantity volume pricing</span></p>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Automatic Dispensers</s:tag>
+    <s:tag>Featured Products</s:tag>
+    <s:tag>Hand Sanitizer</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/5632623607958</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>95801</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+</feed>

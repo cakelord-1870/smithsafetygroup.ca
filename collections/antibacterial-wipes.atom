@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://smithsafetygroup.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://smithsafetygroup.ca/collections/antibacterial-wipes.atom"/>
+  <title>Smith Safety Group</title>
+  <updated>2021-08-04T12:13:31-04:00</updated>
+  <author>
+    <name>Smith Safety Group</name>
+  </author>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/6983666565270</id>
+    <published>2021-08-04T12:13:31-04:00</published>
+    <updated>2021-08-04T12:13:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/allora-disinfecting-wipes"/>
+    <title>Allora Disinfecting Wipes</title>
+    <s:type></s:type>
+    <s:vendor>Smith Safety Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/AlloraDisinfectingWipes.png?v=1628093472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smith Safety Group<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Allora disinfectant wipes are durable, nonwoven, nonabrasive wipes pre-saturated with special antibacterial formula. These wipes allow you to easily dispense, clean and disinfect surfaces. Work great on hard, nonporous surfaces in kitchens and bathrooms including finished hardwood, stainless steel, and more.</span></p>
+<p><span data-mce-fragment="1">- Kills 99.9% of viruses and bacteria</span></p>
+<p><span data-mce-fragment="1">- Removes 99% of allergens </span></p>
+<p><span data-mce-fragment="1">- Environmentally friendly</span></p>
+<p><span data-mce-fragment="1">- Hypoallergenic and dermatologist tested</span></p>
+<p><span data-mce-fragment="1">- Wipe size of 5.25" x 7.25" </span></p>
+<p>- Free shipping over $99</p>
+<p><strong>- Contact for large quantity orders exceeding quantities in our price chart</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disinfectant Wipes</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/6983666565270</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/6821734940822</id>
+    <published>2021-06-04T12:13:50-04:00</published>
+    <updated>2021-06-04T12:13:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/sterikleen-antibacterial-and-antiviral-wipes-160-count"/>
+    <title>SteriWipes Antibacterial and AntiViral Wipes (160 Count)</title>
+    <s:type>Disinfectant Wipes</s:type>
+    <s:vendor>Smith Safety Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/SteriWipesAntibacterialAntiViralWipesMadeinCanada.png?v=1622822447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smith Safety Group<br>
+        <strong>Type: </strong>Disinfectant Wipes<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Made in Canada</strong> by INTECH, the SteriKleen virucidal wipes kill viruses and bacteria. These medical grade fragrance free wipes are ready to use for hospitals, clinics, industrial applications, and household use to disinfect a variety of surfaces.<br></p>
+<ul>
+<li>Fragrance Free</li>
+<li>Alcohol Free</li>
+<li>DIN # 02500787</li>
+<li>Health Canada Approved</li>
+<li>Contact for SDS</li>
+<li><strong>Contact for large quantity orders exceeding quantities in our price chart</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disinfectant Wipes</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/6821734940822</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/5632623673494</id>
+    <published>2020-08-20T19:21:38-04:00</published>
+    <updated>2020-08-20T19:21:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/hand-sanitizing-wipes"/>
+    <title>Anti-Bacterial Wipes 70pc Tube-Chlorine Based</title>
+    <s:type>Disinfectant Wipes</s:type>
+    <s:vendor>Fusion PPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/Antibacterial-Wipes.png?v=1598715389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fusion PPE<br>
+        <strong>Type: </strong>Disinfectant Wipes<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="Heading">FEATURES AND BENEFITS</p>
+<table width="534">
+<tbody>
+<tr style="height: 19px;" data-mce-style="height: 19px;">
+<td style="width: 10%; height: 19px;" data-mce-style="width: 10%; height: 19px;"><span data-doc-type="writer" data-doc-id="6674303000001459002" style="font-family: Carlito, Calibri; font-size: 11pt;" data-mce-style="font-family: Carlito, Calibri; font-size: 11pt;">• </span></td>
+<td style="width: 86%; height: 19px;" data-mce-style="width: 86%; height: 19px;"><span>Kills up to 99.98% of Germs</span></td>
+</tr>
+<tr style="height: 19px;" data-mce-style="height: 19px;">
+<td style="width: 10%; height: 19px;" data-mce-style="width: 10%; height: 19px;"><span data-doc-type="writer" data-doc-id="6674303000001459002" style="font-family: Carlito, Calibri; font-size: 11pt;" data-mce-style="font-family: Carlito, Calibri; font-size: 11pt;"> • </span></td>
+<td style="width: 86%; height: 19px;" data-mce-style="width: 86%; height: 19px;">Water, Chloride, Aloe and Glycerin based</td>
+</tr>
+<tr style="height: 19px;" data-mce-style="height: 19px;">
+<td style="width: 10%; height: 19px;" data-mce-style="width: 10%; height: 19px;">
+<p><span data-doc-type="writer" data-doc-id="6674303000001459002" style="font-family: Carlito, Calibri; font-size: 11pt;" data-mce-style="font-family: Carlito, Calibri; font-size: 11pt;">• </span></p>
+</td>
+<td style="width: 86%; height: 19px;" data-mce-style="width: 86%; height: 19px;">
+<p>DIN # 02500485</p>
+</td>
+</tr>
+<tr style="height: 10.55px;" data-mce-style="height: 10.55px;">
+<td style="width: 50.93px; height: 18px;" data-mce-style="width: 50.93px; height: 18px;"><span data-doc-type="writer" data-doc-id="6674303000001459002" style="font-family: Carlito, Calibri; font-size: 11pt;" data-mce-style="font-family: Carlito, Calibri; font-size: 11pt;"> • </span></td>
+<td style="width: 468.4px; height: 18px;" data-mce-style="width: 468.4px; height: 18px;">Contact for Testing Results</td>
+</tr>
+<tr style="height: 34px;" data-mce-style="height: 34px;">
+<td style="width: 10%; height: 34px;" data-mce-style="width: 10%; height: 34px;">
+<p><span data-doc-type="writer" data-doc-id="6674303000001459002" style="font-family: Carlito, Calibri; font-size: 11pt;" data-mce-style="font-family: Carlito, Calibri; font-size: 11pt;">• </span></p>
+</td>
+<td style="width: 86%; height: 34px;" data-mce-style="width: 86%; height: 34px;">
+<p><meta charset="UTF-8"><span>Contact for large quantity volume pricing</span></p>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disinfectant Wipes</s:tag>
+    <s:tag>Featured Products</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/5632623673494</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>95700</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/5632622264470</id>
+    <published>2020-08-20T19:21:03-04:00</published>
+    <updated>2020-08-20T19:21:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/hand-sanitizing-wipes-100pc-tube-alcohol-based"/>
+    <title>Antiseptic Wipes 100pc Tube-Alcohol Based</title>
+    <s:type>Disinfectant Wipes</s:type>
+    <s:vendor>Fusion PPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/Antiseptic-Wipes-100pc.jpg?v=1597965669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fusion PPE<br>
+        <strong>Type: </strong>Disinfectant Wipes<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="Heading">FEATURES AND BENEFITS</p>
+<table width="534">
+<tbody>
+<tr style="height: 19px;">
+<td style="width: 10%; height: 19px;"><span style="font-family: Carlito, Calibri; font-size: 11pt;" data-doc-id="6674303000001459002" data-doc-type="writer"> • </span></td>
+<td style="width: 86%; height: 19px;">Kills up to 99.98% of Germs</td>
+</tr>
+<tr style="height: 19px;">
+<td style="width: 10%; height: 19px;"><span style="font-family: Carlito, Calibri; font-size: 11pt;" data-doc-id="6674303000001459002" data-doc-type="writer">• </span></td>
+<td style="width: 86%; height: 19px;">Ethyl Alcohol – 75% (v/v)</td>
+</tr>
+<tr style="height: 19px;">
+<td style="width: 10%; height: 19px;"><span style="font-family: Carlito, Calibri; font-size: 11pt;" data-doc-id="6674303000001459002" data-doc-type="writer"> • </span></td>
+<td style="width: 86%; height: 19px;">Alcohol, Purified Water, and Glycerin Based</td>
+</tr>
+<tr style="height: 19px;">
+<td style="width: 10%; height: 19px;"><span style="font-family: Carlito, Calibri; font-size: 11pt;" data-doc-id="6674303000001459002" data-doc-type="writer">• </span></td>
+<td style="width: 86%; height: 19px;">NPN # 80101999</td>
+</tr>
+<tr style="height: 10.55px;">
+<td style="width: 50.93px; height: 18px;"><span style="font-family: Carlito, Calibri; font-size: 11pt;" data-doc-id="6674303000001459002" data-doc-type="writer"> • </span></td>
+<td style="width: 468.4px; height: 18px;">Contact for Testing Results<br>
+</td>
+</tr>
+<tr style="height: 34px;">
+<td style="width: 10%; height: 34px;">
+<p><span style="font-family: Carlito, Calibri; font-size: 11pt;" data-doc-id="6674303000001459002" data-doc-type="writer">• </span></p>
+</td>
+<td style="width: 86%; height: 34px;">
+<p><meta charset="UTF-8"><span>Contact for large quantity volume pricing</span></p>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disinfectant Wipes</s:tag>
+    <s:tag>Featured Products</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/5632622264470</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>95701</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+</feed>

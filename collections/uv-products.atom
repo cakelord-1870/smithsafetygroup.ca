@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://smithsafetygroup.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://smithsafetygroup.ca/collections/uv-products.atom"/>
+  <title>Smith Safety Group</title>
+  <updated>2020-08-20T19:21:28-04:00</updated>
+  <author>
+    <name>Smith Safety Group</name>
+  </author>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/5632623280278</id>
+    <published>2020-08-20T19:21:28-04:00</published>
+    <updated>2020-08-20T19:21:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/uv-multipurpose-sterilization-box"/>
+    <title>UV Multipurpose Sterilization Box</title>
+    <s:type>UV Products</s:type>
+    <s:vendor>Fusion PPE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/UV-Sterlization-Box.png?v=1598751120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fusion PPE<br>
+        <strong>Type: </strong>UV Products<br>
+        <strong>Price: </strong>
+            19.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="Heading">FEATURES AND BENEFITS</p>
+<table width="534">
+<tbody>
+<tr style="height: 19px;">
+<td style="width: 10%; height: 19px;"><span data-doc-id="6674303000001459002" data-doc-type="writer" style="font-family: Carlito, Calibri; font-size: 11pt;">• </span></td>
+<td style="width: 86%; height: 19px;">Kills 99.9% Bacteria</td>
+</tr>
+<tr style="height: 19px;">
+<td style="width: 10%; height: 19px;"><span data-doc-id="6674303000001459002" data-doc-type="writer" style="font-family: Carlito, Calibri; font-size: 11pt;"><span>•</span></span></td>
+<td style="width: 86%; height: 19px;">Disinfects Phones, Keys and Gadgets</td>
+</tr>
+<tr style="height: 19px;">
+<td style="width: 10%; height: 19px;"><span data-doc-id="6674303000001459002" data-doc-type="writer" style="font-family: Carlito, Calibri; font-size: 11pt;"> • </span></td>
+<td style="width: 86%; height: 19px;">2 functions: 10 Minute Fast Clean, and 30 Minute Full Clean</td>
+</tr>
+<tr style="height: 19px;">
+<td style="width: 10%; height: 19px;"><span data-doc-id="6674303000001459002" data-doc-type="writer" style="font-family: Carlito, Calibri; font-size: 11pt;"> • </span></td>
+<td style="width: 86%; height: 19px;">Auto turns off if opened</td>
+</tr>
+<tr style="height: 19px;">
+<td style="width: 10%; height: 19px;">
+<p><span data-doc-id="6674303000001459002" data-doc-type="writer" style="font-family: Carlito, Calibri; font-size: 11pt;">• </span></p>
+</td>
+<td style="width: 86%; height: 19px;">Comes with USB-C adapter</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 50.93px; height: 18px;"><span data-doc-id="6674303000001459002" data-doc-type="writer" style="font-family: Carlito, Calibri; font-size: 11pt;"> • </span></td>
+<td style="width: 468.4px; height: 18px;">FCC and RoHS Approved</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 50.93px; height: 18px;"><span data-doc-id="6674303000001459002" data-doc-type="writer" style="font-family: Carlito, Calibri; font-size: 11pt;"> • </span></td>
+<td style="width: 468.4px; height: 18px;">8.28 in Width x 4.27 in Wide x 2.44 in Depth</td>
+</tr>
+<tr style="height: 5px;">
+<td style="width: 10%; height: 5px;">
+<p><span data-doc-id="6674303000001459002" data-doc-type="writer" style="font-family: Carlito, Calibri; font-size: 11pt;">• </span></p>
+</td>
+<td style="width: 86%; height: 5px;">Contact for large quantity volume pricing</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Featured Products</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>UV Products</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/5632623280278</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.97</s:price>
+      <s:sku>95901</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+</feed>

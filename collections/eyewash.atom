@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://smithsafetygroup.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://smithsafetygroup.ca/collections/eyewash.atom"/>
+  <title>Smith Safety Group</title>
+  <updated>2021-08-03T17:37:17-04:00</updated>
+  <author>
+    <name>Smith Safety Group</name>
+  </author>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/6981972525206</id>
+    <published>2021-08-03T17:37:17-04:00</published>
+    <updated>2021-08-03T17:37:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/single-eyewash-station-with-1l-bottle-empty"/>
+    <title>Single Eyewash Station with 1L Bottle (Empty)</title>
+    <s:type></s:type>
+    <s:vendor>Smith Safety Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/SingleEyewashStation1LBottleEmpty.png?v=1628022765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smith Safety Group<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>- Single eyewash station with one empty 1L bottle</p>
+<p>- Durable plastic construction</p>
+<p>- Wall mountable</p>
+<p>- Includes a sign board with directions</p>
+<p>- Free shipping over $99</p>
+<p><strong>- Contact for large quantity orders exceeding quantities in our price chart</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eyewash</s:tag>
+    <s:tag>First Aid</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/6981972525206</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/6981927239830</id>
+    <published>2021-08-03T17:36:10-04:00</published>
+    <updated>2021-08-03T17:36:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/4l-eyewash-solution"/>
+    <title>4L Eyewash Solution</title>
+    <s:type></s:type>
+    <s:vendor>Smith Safety Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/4LEyewashSolutionFront.png?v=1628021110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smith Safety Group<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This eyewash solution can be used to clean the eye to help reduce irritation, discomfort, burning, stinging, smarting or itching by removing loose foreign material, air pollutants (smog or pollen) or chlorinated water.</p>
+<p>- 4L (4000ml) of eyewash solution</p>
+<p>- Medical Ingredients: Purified Water 98.3%</p>
+<p>- Non Medical Ingredients: Boric Acid, Sodium Borate, Sodium Chloride</p>
+<p>- Free shipping over $99</p>
+<p><strong>- Contact for large quantity orders exceeding quantities in our price chart</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eyewash</s:tag>
+    <s:tag>First Aid</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/6981927239830</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://smithsafetygroup.ca/products/6981902205078</id>
+    <published>2021-08-03T17:35:37-04:00</published>
+    <updated>2021-08-03T17:35:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://smithsafetygroup.ca/products/1l-eyewash-solution"/>
+    <title>1L Eyewash Solution</title>
+    <s:type></s:type>
+    <s:vendor>Smith Safety Group</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0466/2529/2438/products/1LEyewashSolutionFront.png?v=1628019663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smith Safety Group<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This eyewash solution can be used to clean the eye to help reduce irritation, discomfort, burning, stinging, smarting or itching by removing loose foreign material, air pollutants (smog or pollen) or chlorinated water.</p>
+<p>- 1L (1000ml) of eyewash solution</p>
+<p>- Medical Ingredients: Purified Water 98.3%</p>
+<p>- Non Medical Ingredients: Boric Acid, Sodium Borate, Sodium Chloride</p>
+<p>- Free shipping over $99</p>
+<p><strong>- Contact for large quantity orders exceeding quantities in our price chart</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eyewash</s:tag>
+    <s:tag>First Aid</s:tag>
+    <s:variant>
+      <id>https://smithsafetygroup.ca/products/6981902205078</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
